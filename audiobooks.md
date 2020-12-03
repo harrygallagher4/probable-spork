@@ -1,8 +1,16 @@
 ---
-date: 2020-12-03T07:39
+title: Audiobooks
+date: 2020-12-02T22:59
+tags:
+  - media
 ---
 
-# audiobooks
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+
+## Tagging m4b files
+
+|    field    |         mp4 |  id3 |
+| :---------: | ----------: | ---: |
+|  Narrator   |    composer |    ? |
+| Description | description |    ? |
 
