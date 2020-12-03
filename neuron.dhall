@@ -1,8 +1,8 @@
-{ siteTitle = "Neuron Template"
-, author = Some "John Doe"
-, siteBaseUrl = Some "https://srid.github.io/neuron-template"
+-- vim: ft=haskell
+{ siteTitle = "harry's notes"
+, author = Some "harryg"
+, siteBaseUrl = Some "https://harrygallagher4.github.io/probable-circus"
+, editUrl = Some "https://github.com/harrygallagher4/probable-circus/edit/master/"
 -- List of theme colors: https://neuron.zettel.page/2014601.html
-, theme = "teal"
--- This is used in the "edit" button
-, editUrl = Some "https://github.com/srid/neuron-template/edit/master/"
+, theme = "violet"
 }
